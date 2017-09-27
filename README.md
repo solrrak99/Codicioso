@@ -3,7 +3,7 @@
  # TL;DR
 Implementar un programa que calcula el número mínimo de monedas necesarias para dar un cambio al usuario.
 
-Cuánto cambio se te debe: .41
+Cuánto cambio se te debe: .41<br>
 Número de monedas a devolver: 5
 
  # Especificación
