@@ -36,7 +36,8 @@ namespace codicioso
             System.Console.WriteLine($"monedas de 0.1: {cam01v}");
             System.Console.WriteLine($"monedas de 0.001:{cam001v}");
 
-
+            //Carlos Alejandro Villegas Nuñez   
+            //Sergio Reyes Aceves
         }
     }
 }
